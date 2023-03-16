@@ -4,7 +4,7 @@
 
 ### What is done
 - [x] set up a Django project
-- [x] created a first migration
+- [x] created initial migration
 - [x] set up a React (TypeScript) project
 - [ ] controllers
 - [ ] test with Postman
